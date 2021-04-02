@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 mememe
 i am bug
+=======
+mememe   iam done
+
+i am dev 100percent
+>>>>>>> dev
